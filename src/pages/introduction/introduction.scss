@@ -1,0 +1,28 @@
+page-introduction {
+    #body {
+        background-image: url("../../assets/icon/background.svg");
+        background-repeat: no-repeat;
+    }
+
+    #img {
+        width: 50%;
+        margin: 38% auto;
+        display: block;
+    }
+
+    .btn {
+        margin: 10px auto;
+        display: block;
+        width: 80%;
+        border-radius: 9px;
+        padding: 7%;
+    }
+
+    #btn {
+        padding-top: 11%;
+    }
+
+    #login-btn {
+        color: white; 
+    }
+}
